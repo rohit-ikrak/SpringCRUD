@@ -6,7 +6,7 @@
 	<head>
 		<meta charset="ISO-8859-1">
 		<title>Delete Data</title>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+		
 	</head>
 
 	<body>
